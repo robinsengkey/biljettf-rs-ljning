@@ -1,0 +1,3 @@
+0 A4S0K0 total price is 400kr
+1 A4S1K0 total price is 475kr
+2 A4S2K1 total price is 575kr

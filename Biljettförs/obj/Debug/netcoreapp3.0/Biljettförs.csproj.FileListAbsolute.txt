@@ -1,0 +1,11 @@
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\bin\Debug\netcoreapp3.0\Biljettförs.exe
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\bin\Debug\netcoreapp3.0\Biljettförs.deps.json
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\bin\Debug\netcoreapp3.0\Biljettförs.runtimeconfig.json
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\bin\Debug\netcoreapp3.0\Biljettförs.runtimeconfig.dev.json
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\bin\Debug\netcoreapp3.0\Biljettförs.dll
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\bin\Debug\netcoreapp3.0\Biljettförs.pdb
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\obj\Debug\netcoreapp3.0\Biljettförs.csprojAssemblyReference.cache
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\obj\Debug\netcoreapp3.0\Biljettförs.AssemblyInfoInputs.cache
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\obj\Debug\netcoreapp3.0\Biljettförs.AssemblyInfo.cs
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\obj\Debug\netcoreapp3.0\Biljettförs.dll
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\Biljettförs\obj\Debug\netcoreapp3.0\Biljettförs.pdb
